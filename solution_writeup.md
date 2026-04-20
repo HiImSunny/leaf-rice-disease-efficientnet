@@ -85,7 +85,7 @@ Việc kết hợp hai nhóm này giúp tăng tính ổn định dự đoán tr�
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Best Blend Score (validation) | 0.9068 (epoch 41) |
+| Best Blend Score (validation) | 0.9330 (epoch 45) |
 | Best Public Score | 0.66376 |
 | Submission nộp cuối cùng | 0.66376 |
 
